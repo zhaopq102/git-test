@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("hot  fix test");
         System.out.println("master test");
         System.out.println("push to github test");
+        System.out.println("pull0 to IDEA test");
         String correctUsername = "user123";
         String correctPassword = "password123";
 
