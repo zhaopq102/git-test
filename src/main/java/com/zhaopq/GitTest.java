@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("hot  fix test");
         System.out.println("master test");
+        System.out.println("push to github test");
         String correctUsername = "user123";
         String correctPassword = "password123";
 
