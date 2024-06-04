@@ -12,6 +12,7 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("push to github test");
         System.out.println("pull0 to IDEA test");
+        System.out.println("gitee pull to IDEA test");
         String correctUsername = "user123";
         String correctPassword = "password123";
 
